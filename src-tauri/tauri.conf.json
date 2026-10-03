@@ -12,9 +12,9 @@
 		"active": true,
 		"category": "Game",
 		"copyright": "",
-		"targets": "all",
+		"targets": "appimage",
 		"externalBin": [],
-		"createUpdaterArtifacts": true,
+		"createUpdaterArtifacts": false,
 		"shortDescription": "A modern mod manager for Thunderstore",
 		"longDescription": "",
 		"icon": [
